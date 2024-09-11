@@ -18,15 +18,17 @@ Para testar o PythonAPICalculator, siga estas etapas:
 
 2. Abra o repositório no seu VSCode ou compilador favorito.
 
-3. Execute o arquivo requirements.txt com o comando: pip install -r requirements.txt.
+3. Crie um ambiente virtual dentro da pasta com o comando: python -m venv venv.
 
-4. Com todos os requisitos instalados e dentro do repositório aberto no seu compilador, ative o ambiente virtual com o comando:
+4. Execute o arquivo requirements.txt com o comando: pip install -r requirements.txt.
+
+5. Com todos os requisitos instalados e dentro do repositório aberto no seu compilador, ative o ambiente virtual com o comando:
     * No Windows: venv\Scripts\activate ou venv\Scripts\Activate.ps1
     * No Linux: source venv/bin/activate
 
-5. Com o ambiente virtual ativado, use o comando: python manage.py runserver para iniciar o servidor e acessar a aplicação.
+6. Com o ambiente virtual ativado, use o comando: python manage.py runserver para iniciar o servidor e acessar a aplicação.
 
-6. Abra o link fornecido no seu terminal no navegador.
+7. Abra o link fornecido no seu terminal no navegador.
 
 ![image](https://github.com/user-attachments/assets/77e1d455-7cd4-496d-a745-d8416f2505ad)
 
